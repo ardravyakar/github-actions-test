@@ -1,4 +1,4 @@
-name: Action workflow
+name: Action workflow new
 
 on: [push,pull_request]
 
